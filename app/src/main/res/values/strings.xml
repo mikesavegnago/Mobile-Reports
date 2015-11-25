@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mobile Report</string>
+    <string name="navigation_drawer_open">Abrir Menu</string>
+    <string name="navigation_drawer_close">Fechar Menu</string>
+    <string name="title_activity_main">Home</string>
+    <string name="title_activity_itens">Lista de Itens</string>
+    <string name="title_activity_graph">Crescimento Mensal</string>
+    <string name="title_activity_dados">Dados da Empresa</string>
+    <string name="action_settings">Sobre</string>
+</resources>
